@@ -6,12 +6,12 @@ body {
   height: 150px;
 }
 
-ul {
+header ul {
   display: inline-block;
   vertical-align: top;
 }
 
-li {
+header li {
   display: inline-block;
   margin: 0 10px 0 30px;
 }
