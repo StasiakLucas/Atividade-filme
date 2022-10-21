@@ -16,6 +16,11 @@ header li {
   margin: 0 10px 0 30px;
 }
 
+.imagem-filme {
+  margin: 0 auto;
+}
+
 .capa {
   margin: 0 auto;
+  width: 300px;
 }
