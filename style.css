@@ -7,31 +7,40 @@ body {
 }
 
 nav {
-  display: inline;
+  display: inline-block;
   vertical-align: top;
+  height: 150px;
+  width: 80%;
 }
 
 header nav ul {
   display: inline-block;
   vertical-align: top;
+  margin-top: 70px;
 }
 
 header nav li {
   display: inline-block;
-  margin: 0 10px 0 30px;
+  margin:0 10px 0 100px;
 }
 
 header nav a:hover {
   color: #FFFFFF;
 }
 
-.imagem-filme {
-  margin: 0 auto 0 auto;
-  display: inline-block;
-
+.capa {
+  margin: 50px auto;
+  width: 500px;
 }
 
-.capa {
-  margin: 50px 50px 50px 500px;
-  width: 300px;
+.divisao {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+  height: 805px;
+}
+
+.sinopse {
+  display: inline-block;
+
 }
