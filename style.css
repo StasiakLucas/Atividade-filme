@@ -1,18 +1,37 @@
-
 body {
-  background-color: #808000;
+  background-color: #D29F13;
 }
 
 #logo {
   height: 150px;
 }
 
-ul {
+nav {
+  display: inline;
+  vertical-align: top;
+}
+
+header nav ul {
   display: inline-block;
   vertical-align: top;
 }
 
-li {
+header nav li {
   display: inline-block;
   margin: 0 10px 0 30px;
+}
+
+header nav a:hover {
+  color: #FFFFFF;
+}
+
+.imagem-filme {
+  margin: 0 auto 0 auto;
+  display: inline-block;
+
+}
+
+.capa {
+  margin: 50px 50px 50px 500px;
+  width: 300px;
 }
