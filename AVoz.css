@@ -1,0 +1,56 @@
+body {
+  background-color: #00CED1;
+}
+
+#logo {
+  height: 130px;
+  position: fixed;
+  right: 1275px;
+
+
+}
+
+header {
+  background-color: orange;
+}
+
+nav {
+  display: inline-block;
+  vertical-align: top;
+  height: 150px;
+  width: 80%;
+}
+
+header nav ul {
+  display: inline-block;
+  vertical-align: top;
+  position: absolute;
+  right: 1000px;
+  top: 70px;
+}
+
+header nav li {
+  display: inline-block;
+  margin:0 10px 0 100px;
+}
+
+header nav a:hover {
+  color: #EEEEEE;
+}
+
+.capa {
+  margin: 50px auto;
+  width: 500px;
+}
+
+.divisao {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+  height: 805px;
+}
+
+.sinopse {
+  display: inline-block;
+
+}
