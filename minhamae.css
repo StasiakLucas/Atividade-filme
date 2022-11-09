@@ -1,0 +1,50 @@
+body {
+    background-color: #d452a0;
+  }
+
+header {
+    background-color: rgb(226, 156, 35);
+    position: relative;
+}
+  #logo {
+    height: 150px;
+    position: relative
+  }
+  
+  nav {
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
+    width: 80%;
+    position: absolute;
+  }
+  
+  header nav ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 70px;
+    text-transform: uppercase;
+  }
+  
+  header nav li {
+    display: inline-block;
+    margin:0 10px 0 100px;
+  }
+  
+  header nav a:hover {
+    color: #FFFFFF;
+  }
+  
+  .capa {
+    margin: 50px auto;
+    width: 500px;
+  }
+  
+  .divisao {
+    display: inline-block;
+    width: 50%;
+    height: 500px;
+    vertical-align: top;
+
+  }
+ 
