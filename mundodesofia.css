@@ -1,0 +1,46 @@
+body {
+    background-color: #D29F13;
+  }
+  
+  #logo {
+    height: 150px;
+  }
+  
+  nav {
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
+    width: 80%;
+  }
+  
+  header nav ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 70px;
+  }
+  
+  header nav li {
+    display: inline-block;
+    margin:0 10px 0 100px;
+  }
+  
+  header nav a:hover {
+    color: #FFFFFF;
+  }
+  
+  .capa {
+    margin: 50px auto;
+    width: 500px;
+  }
+  
+  .divisao {
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    height: 805px;
+  }
+  
+  .sinopse {
+    display: inline-block;
+  
+  }
