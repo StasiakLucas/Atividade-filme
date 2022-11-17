@@ -1,0 +1,55 @@
+header {
+    background-color: #F99F19;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  
+  #logo {
+    height: 150px;
+    position: absolute;
+    left: 150px;
+  }
+  
+  
+  nav {
+    display: inline-block;
+    vertical-align: top;
+    height: 150px;
+    width: 80%;
+  }
+  
+  header nav ul {
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    right: 0;
+  }
+  
+  header nav li {
+    display: inline-block;
+    margin:0 10px 0 100px;
+  
+  }
+  
+  
+  h1 {
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  #adilson_goncalves_img {
+    height: 400px;
+    width: 300px;
+    border: 4px dashed #000000;
+    position: relative;
+    left: 516.5px;
+  }
+  
+  p {
+    text-align: justify;
+    font-size: 20px;
+  }
+  
