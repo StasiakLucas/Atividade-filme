@@ -4,6 +4,7 @@ body {
 
 #logo {
   height: 150px;
+  padding: 10px;
 }
 
 nav {
@@ -26,4 +27,45 @@ header nav li {
 
 header nav a:hover {
   color: #FFFFFF;
+}
+
+.item-nome {
+  margin: 5px 0 5px 0;
+  list-style-type: none;
+}
+
+#LS:before {
+  content: "📖  ";
+  font-size: 24px;
+}
+
+#AS:after {
+  content: "🏅";
+}
+
+#FS:before {
+  content: "🎹  ";
+}
+
+.item-nome a {
+  font-size: 24px;
+  text-decoration: none;
+  color: #474a51;
+  font-weight: bold;
+}
+
+footer {
+  height: 400px;
+  background-image: url("footer-imagem.jpg");
+}
+
+.lista-redes-sociais {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 50px
+}
+
+.item-rs:first-letter {
+  font-size: 26px;
+  color: purple;
 }
